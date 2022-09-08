@@ -4,4 +4,6 @@ git has a mutable index called stage.
 git tracks changes
 
 
+git remote set-url origin git@github.com:用户名/仓库名.git
+
 
